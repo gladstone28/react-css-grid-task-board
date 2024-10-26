@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-css-grid-task-board/static/css/main.a939a4ac.css",
+    "main.js": "/react-css-grid-task-board/static/js/main.7fe78a8a.js",
+    "index.html": "/react-css-grid-task-board/index.html",
+    "main.a939a4ac.css.map": "/react-css-grid-task-board/static/css/main.a939a4ac.css.map",
+    "main.7fe78a8a.js.map": "/react-css-grid-task-board/static/js/main.7fe78a8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a939a4ac.css",
+    "static/js/main.7fe78a8a.js"
+  ]
+}
